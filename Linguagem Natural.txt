@@ -1,0 +1,6 @@
+1 - Início
+2 - solicite o utilizador o operando a
+3 - solicite o utilizador o operando b
+4 - calcula a soma entre a e b
+5 - apresenta o resultado da operação calculada no ponto 4
+6 - fim
