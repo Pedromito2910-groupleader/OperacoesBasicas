@@ -1,0 +1,18 @@
+Algoritmo OperacoesBasicas;
+Variáveis n1, n2: inteiro;
+Início
+        Escrever("Introduza um º inteiro:");
+        Ler(n1);
+        Escrever("Introduza outro nº inteiro:");
+        Ler(n2)
+     
+        soma <- a + b;
+        subtração <- a - b;
+        multiplicação <- a * b;
+        divisão <- a / b;
+     
+        Escrever("Soma:", soma);
+        Escrever("Subtração:",subtração);
+        Escrever("Multiplicação:", multiplicacao);
+        Escrever("Divisão:", divisao);
+Fim.
