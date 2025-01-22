@@ -1,0 +1,14 @@
+1. Início
+2. Escrever o n1 
+3. Ler o n1
+4. Escrever o n2
+5. Ler o n2
+6. Efetuar a soma das duas variáveis
+7. Efetuar a subtração das duas variáveis
+8. Efetuar a multiplicacao das duas variáveis
+9. Efetuar a divisao das duas variáveis
+10.Escrever o resultado da operação de soma
+11.Escrever o resultado da operação de subtração
+12.Escrever o resultado da operação de multiplicacao
+13.Escrever o resultado da operação de divisao
+14.Fim
